@@ -8,3 +8,6 @@ yarn start
 npm install --save react-navigation
 //optional//npm install
 //optional//expo install react-native-gesture-handler
+npm install moment --save
+npm install numeral
+//optional//expo install react-native-gesture-handler
